@@ -42,8 +42,8 @@ Daily commits, live streams, and transparent progress updates.
 
 ## 🧩 Tech Stack
 
-- **Frontend:** Svelte / Next.js (lightweight client)  
-- **Backend / Relay:** Rust + WebSockets  
+- **Frontend:** JS / Next.js (lightweight client)  
+- **Backend / Relay:** JS + WebSockets  
 - **Blockchain:** Zcash (ZEC)  
 - **Encryption:** Zero-Knowledge proofs & zk-SNARKs  
 
