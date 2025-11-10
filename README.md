@@ -34,7 +34,7 @@ We’re building in public.
 Daily commits, live streams, and transparent progress updates.  
 
 **Follow our development:**
-- 🟣 Streams — [@pumpfun](https://twitter.com/pumpfun)  
+- 🟣 Streams — [@pumpfun](https://pump.fun/coin/)  
 - 🧠 Code — [GitHub Repository](#)  
 - 🕯️ Updates — [@mezzageLabs](https://x.com/mezzageLabs)
 
